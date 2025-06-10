@@ -5,7 +5,7 @@ public class Lab001_Multiplication_Table {
         int number = 7; // Change this to print table of any number
 
         System.out.println("Multiplication Table of " + number);
-        System.out.println("----------------------------");
+        System.out.println("-----------------------------");
         System.out.println(number + " x 1 = " + (number * 1));
         System.out.println(number + " x 2 = " + (number * 2));
         System.out.println(number + " x 3 = " + (number * 3));
