@@ -2,7 +2,7 @@ package ex_02_Java_Basic02;
 
 public class Lab001_Multiplication_Table {
     public static void main(String[] args) {
-        int number = 7; // Change this to print table of any number
+        int number = 9; // Change this to print table of any number
 
         System.out.println("Multiplication Table of " + number);
         System.out.println("-----------------------------");
