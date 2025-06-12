@@ -16,5 +16,6 @@ public class Lab001_Multiplication_Table {
         System.out.println(number + " x 8 = " + (number * 8));
         System.out.println(number + " x 9 = " + (number * 9));
         System.out.println(number + " x 10 = " + (number * 10));
+        Sou
     }
 }
